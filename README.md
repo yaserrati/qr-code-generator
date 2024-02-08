@@ -46,7 +46,8 @@ The generated QR code with the logo overlay will be saved as `mygithubqr.png`.
 
 ## Example
 
-![GitHub QR Code with Logo Overlay](mygithubqr.png)
+![mygithubqr](https://github.com/yaserrati/qr-code-generator/assets/88887542/fd046b7f-80a3-45b1-ac02-d1e64fef214e)
+
 
 ## Customization
 
